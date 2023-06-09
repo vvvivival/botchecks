@@ -1,5 +1,7 @@
-161451
-262324
+DISABLED IDS:
+
+---
+ALLOWED GROUPS
 
 groups[userid][practicalid]:
 ctrl+v: [14919992][3568717839]
@@ -11,4 +13,8 @@ starships: [5512031][1413849745]
 
 deepness: [9773146][2402097467]
 $parklez: [5305861][1341871193]
+
 knightmare: [15823245][3857759681]
+
+
+---
